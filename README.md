@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OhBeomho
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Kotlin(Android)
+- 🌱 I’m currently learning JavaFX
 
 <!---
 OhBeomho/OhBeomho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
