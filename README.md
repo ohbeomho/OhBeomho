@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OhBeomho
+- 👋 Hi, I’m @OhBeomho.
 - 👀 I’m interested in Web Programming.
-- 🌱 I’m currently learning HTML, CSS, JS.
+- 🌱 I’m currently learning TypeScript.
 - 🕘 And I'm 14 years old.
 
-I am not good at programming.
+I think I'm not good at programming.
