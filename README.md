@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @OhBeomho.
-- 👀 I’m interested in Web Programming.
-- 🌱 I’m currently learning React (Typescript).
-- 🕘 And I'm 14 years old.
+# OhBeomho
 
-I think I'm not good at programming.
+### Who am I?
+I am a student from Korea.  
+I'm 14 years old.
+
+### My interests
+I'm interested in web programming.  
+So, I am learning [React](https://react.dev/) currently.
